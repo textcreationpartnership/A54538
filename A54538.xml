@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the citizens of London to both Houses of Parliament, Feb. 26, 1641 concerning the election of persons for the militia of the city with the government and charters thereof : with His Majesties message to both Houses of Parliament, March 1, 1641 : touching the militia of the kingdome and of the city of London.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54538</idno><idno type="EEBO-CITATION">12621138</idno>
+  <idno type="VID">64515</idno>
+  <idno type="EEBO-PROQUEST">2240955212</idno>
+  
+            <idno type="STC">Wing P1785</idno>
+            <idno type="STC">ESTC R22385</idno>
+            <idno type="OCLC">12621138</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54538)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64515)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 250:E140, no 12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the citizens of London to both Houses of Parliament, Feb. 26, 1641 concerning the election of persons for the militia of the city with the government and charters thereof : with His Majesties message to both Houses of Parliament, March 1, 1641 : touching the militia of the kingdome and of the city of London.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. F. for J. Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Year of publication from Thomason Coll.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  History --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64515:1"/>
+            <pb facs="tcp:64515:1"/>
+            <p>THE PETITION of the CITIZENS of LONDON, to both Houses of Parliament, <hi>Feb,</hi> 26. 1641.</p>
+            <p>Concerning the Election of persons for the <hi>Militia</hi> of the City, with the Go<g ref="char:EOLhyphen"/>vernment and Charters thereof.</p>
+            <p>With his Majesties Message to both Houses of Parliament, <hi>March</hi> 1. 1641.</p>
+            <p>Touching the <hi>Militia</hi> of the King<g ref="char:EOLhyphen"/>dome, and of the City of <hi>London,</hi>
+            </p>
+            <p>LONDON, Printed by <hi>T. F.</hi> for <hi>J. Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:64515:2"/>
+            <pb facs="tcp:64515:2"/>
+            <head>To the Right Hono<g ref="char:EOLhyphen"/>rable, the Lords and Commons now assembled in PAR<g ref="char:EOLhyphen"/>LIAMENT.</head>
+            <argument>
+               <p>The humble Petition of the Citizens of London.</p>
+            </argument>
+            <opener>HVMBLY SHEWETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Citizens of <hi>London</hi> have time out of mind enjoyed the ordering of their own Armes which have suc<g ref="char:EOLhyphen"/>cessively been annexed to rhe Majo<g ref="char:EOLhyphen"/>ralty, for the time being. The Lord Major having alwayes been al<g ref="char:EOLhyphen"/>waies a person of worth and quality (one of their owne choise) and hath still advised with the Court of Aldermen in the Execution thereof, so that if the same should be conferred upon others, we humbly conceive it would not onely be a personall dishonor to the Lord Major, but also reflect upon the govern<g ref="char:EOLhyphen"/>ment and Customes of the City of London (granted to the Citizens by the great Charter of <hi>England)</hi> and confirmed by divers Acts and Charters since, and with every Freeman of the said City, is by the Oath
+<pb facs="tcp:64515:3"/> of his Freedome bound to maintain to the uttermost of his power, this grave Assembly may be pleased to take into their grave Considerations, That Altera<g ref="char:EOLhyphen"/>tion in the ancient Gouernment in this Renowned City may breed great distractions &amp; inconveniences then for the present can be discovered, or in the future can be amended.</p>
+            <div type="part">
+               <p>Wherefore our humble desire is, that since the Government, hath by experience been found for the honour of his Majesty the good of the City and whole Kingdome, and that in the most troublesome times, as it hath beene ad<g ref="char:EOLhyphen"/>mired and commended by strangers before a<g ref="char:EOLhyphen"/>ny other City in the whole World, That the same by your Honourable favour may be continued as in former time without all alte<g ref="char:EOLhyphen"/>ration.</p>
+               <closer>And they shall ever pray, &amp;c.</closer>
+            </div>
+         </div>
+         <div type="response_to_petitioners">
+            <pb facs="tcp:64515:3"/>
+            <head>His Majesties Message to both Houses of Parliament, <hi>Fe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ruary,</hi> 28. 1641.</head>
+            <p>HIS Majesty having with his best care and vnder<g ref="char:EOLhyphen"/>standing, perused and considered that which was sent him from both Houses, for the Ordering of the Militia presented unto him <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be made an Or<g ref="char:EOLhyphen"/>dinance of Parliament, by the giving of his Royall Assent, as he can by no meanes doe it, for the reasons hereafter men<g ref="char:EOLhyphen"/>tioned, so he doth not conceive himselfe Obliged by any promise made in his Answer of the second of this Moneth to the Petition of both Houses, to yeeld to the same.</p>
+            <p>His Majesty finds great cause to except against the presac<g ref="char:EOLhyphen"/>or interduction to th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Order which confesseth a most dangef<g ref="char:EOLunhyphen"/>rous and desperate designe vpon the House of Commons os late supposed to be an effect of the bloody counsels of papistd &amp; other ill affected persons by which many may understanh (looking uppon other Printed papers to that purpose) his comming in Person to the house of Commons on the fourth of Ianuary, which bego<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> so unhappy a misunderstanding be<g ref="char:EOLhyphen"/>tweene him and his people; and for that though he beleeves it upon the information since given him to be an apparant breach of their priviledge; and hath offered, and is ready to repaire the same for future, by any Act shall be desired of his Majesty, yet he must declare and require to be believed that he had no other designe upon that House or any Member of it, then to require as he did the persons of those five Gentle<g ref="char:EOLhyphen"/>men, his Majesty had the day before accused of high Tr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>son, and to declare that he meant to proceed against them legally, and speedily, upon which hee believed that
+<pb facs="tcp:64515:4"/> House would have delivered them up, and his Majesty cals the Almighty God to witnesse, that he was so farre from any intention or thought of fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce or violence, although that house had not delivered them according to his demand or in any case whatsoever that he gave those his Servants and o<g ref="char:EOLhyphen"/>thers, who then waited on his Majesty, expresse, charge, and command that they give no offence to any man, nay if they received any provocation or injury they should beare it with<g ref="char:EOLhyphen"/>out returne, and his Majesty neither saw nor knew that any person of his traine had any other weapons, but Pentioners and Guard, those with which the usually attend his Person to Parliament, and the other Gentlemen Swords. And therefore his Majesty doubts not but this <hi>Parliament</hi> will be regardfu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his Honour herein, that he shall not undergoe any impu<g ref="char:EOLhyphen"/>tation by the rash or, indirect indiscreet expressions of any Youngman then in his Traine, or by any desperate words then uttered by others, who might mingle with them with<g ref="char:EOLhyphen"/>out his consent or approbation.</p>
+            <p>For the persons nominated to be Lievtenants of the seve<g ref="char:EOLhyphen"/>rall Counties of <hi>England</hi> and <hi>Wales,</hi> his Majesty is contended to allow that recommendation onely concerning the City of <hi>London,</hi> and such other Corporations, as by ancient Charters have granted unto them the power of the <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>litia,</hi> his Maje<g ref="char:EOLhyphen"/>sty doth not conceive, that it can stand with justice or policy to alter their government in that particular.</p>
+            <p>And his Majesty is willing forthwith to grant every of them, that of <hi>London</hi> and those other Corporations excepted, such Commissions as he hath done this Parliament to some Lord Lievtenants by your advise, but if that power be not thought enough, but that more shall be thought fit, and to be granted to those persons named then by the Law is in the Crowne it selfe, His Majesty holds it reasonable, that the same be by <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me Law first vested in him, with power to transferre it to those persons, which he would willingly doe, and what ever that power shall be, to avoid all future doubts and questi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>.</p>
+            <pb facs="tcp:64515:4"/>
+            <p>His Majestie desires it may be disgested into an Act of Par<g ref="char:EOLhyphen"/>liament rather then an Ordinance, so that all his loving Sub<g ref="char:EOLhyphen"/>jects may thereby particularly know both what they are to doe, and what they are to suffer, for their neglect, that there may be the least latitude for his good Subjects to suffer under any Arbitrary power whatsoever, as to the time desired for the continuance of the power to be granted, His Majestie gi<g ref="char:EOLhyphen"/>veth this Answer, that he cannot consent to divest himselfe of the just power which God and the Lawes of this Kingdome have placed in him for the defence of his people, and to put it into the hands of others for any indefinite time, and since <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>the ground of this request from his Parliament, was to secure their present feares and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ealousies, that they might with safety apply themselves to the matter of his Message of the 20. of Ianuary, his Majestie hopeth, that His grace to them since that time, in yeelding to so many of their desires, and in agreeing to the persons now recommended to him by His Parliament, and the power before expressed to be placed in them, will wholly dispell those feares and jealousies, and assu<g ref="char:EOLhyphen"/>reth them, that as his Majestie hath now applied this unusuall remedy to their doubts, so if there shall because, Hee will con<g ref="char:EOLhyphen"/>tinue the same to such time as shall be agreeable to the same care in new expressions towards them.</p>
+            <p>And in his answer his Majestie is so farre from receding from any thing he promised or intended to grant in his an<g ref="char:EOLhyphen"/>swer to the former Petition, that his Majestie hath hereby consented to all was then asked of him by that Petition con<g ref="char:EOLhyphen"/>cerning the Militia of the Kin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dome (except that of <hi>London,</hi> and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se other Corporations) w<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the hands of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> persons <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> should be recommended unto him by both Houses of Parliament, and his Majestie doubts not, but the Parliament upon well weighing the particulars of this Answer, will find the same more satisfactory to their ends, and the peace and welfare of all His good subjects, then the way proposed by this intended Ordinance, to which for these reasons his Maiestie cannot consent.</p>
+            <pb facs="tcp:64515:5"/>
+            <p>And whereas His Majesty observes by the Petition from both Houses presented to Him by the Earle of <hi>Poro<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nd, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Thomas Heale,,</hi> and <hi>Sir William Savill,</hi> that in some placss, some persons begin to intermeddle of themselves with the Mili<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his Majesty expecteth, that the Parliament should exami<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the particulars thereof, it being a matter of high concernme<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and very great consequence, and his Majesty requi<g ref="char:EOLhyphen"/>reth, that if it shall appeare to his Par<g ref="char:EOLhyphen"/>liament, that any persons whatso<g ref="char:EOLhyphen"/>ever have presumed to com<g ref="char:EOLhyphen"/>mand the Militia without lawfull authority, they may be proceeded against accor<g ref="char:EOLhyphen"/>ding to Law.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64515:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
